@@ -1,0 +1,127 @@
+h1 {
+  color: midnightblue;
+}
+
+.box {
+  border: 2px solid grey;
+  padding: 20px;
+  margin: 20px;
+  width: 800px;
+  height: 400px;
+}
+
+#colorboxmidnight {
+  border: 1px solid grey;
+  width: 300px;
+  height: 100px;
+  background-color: midnightblue;
+  margin-right: 100px;
+  margin-bottom: 80px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.whitetext {
+  color: white;
+  text-align: center;
+}
+
+#colorboxturquoise {
+  border: 1px solid grey;
+  width: 300px;
+  height: 100px;
+  background-color: turquoise;
+  margin-right: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.blacktext {
+  color: black;
+  text-align: center;
+}
+
+#colorboxforestgreen {
+  border: 1px solid grey;
+  width: 300px;
+  height: 100px;
+  background-color: forestgreen;
+  margin-right: 100px;
+  display: inline-block;
+  float: right;
+  position: relative;
+  bottom: 100px;
+}
+
+#colorboxdeepskyblue {
+  border: 1px solid grey;
+  width: 300px;
+  height: 100px;
+  background-color: deepskyblue;
+  margin-right: 100px;
+  display: inline-block;
+  float: right;
+  position: relative;
+  bottom: 385px;
+}
+
+.fontboxzen {
+  margin: 100px;
+  width: 900px;
+  height: 500px;
+  display: inline-block;
+  position: relative;
+  bottom: 150px;
+  right: 50px;
+}
+
+.fontboxoswald {
+  margin: 100px;
+  width: 900px;
+  height: 500px;
+  display: inline-block;
+  position: relative;
+  bottom: 860px;
+  left: 250px;
+}
+
+.zenloop {
+  font-family: "Zen Loop";
+  font-size: 20px;
+}
+
+.zenlooptitle {
+  font-family: "Zen Loop";
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.oswaldtitle {
+  font-family: "Oswald";
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.oswald {
+  font-family: "Oswald"
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.oswaldh1 {
+  font-size: 30px;
+  font-family: "Oswald";
+  font-weight: 700;
+}
+
+.zenlooph2 {
+  font-size: 20px;
+  font-family: "Zen Loop";
+  font-weight: 600;
+}
+
+.zenloopp {
+  font-size: 12px;
+  font-family: "Zen Loop";
+  font-weight: 400;
+}
